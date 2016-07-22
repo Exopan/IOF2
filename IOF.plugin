@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>IOF</Name>
+		<Author>Almagnus1</Author>
+		<Version>1.1.1</Version>
+	</Information>
+	<Package>Almagnus1.IOF.Main</Package>
+</Plugin>
